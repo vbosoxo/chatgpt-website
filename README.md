@@ -1,6 +1,6 @@
-# 国内 ChatGPT 镜像网站推荐（支持 GPT-4、GPT-o1、GPT-o3、Deepseek、Grok3，无需翻墙）【2025年5月10日更新】
+# 国内 ChatGPT 镜像网站推荐（支持 GPT-4、GPT-o1、GPT-o3、Deepseek、Grok3，无需翻墙）【2025年5月11日更新】
 
-> 最后更新：2025/5/10
+> 最后更新：2025/5/11
 > 
 > 作者：Vbosoxo
 
