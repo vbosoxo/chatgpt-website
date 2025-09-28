@@ -11,7 +11,7 @@
 ChatGPT 镜像网站是指创建一个与官方的 ChatGPT 网站内容和功能几乎相同的网站。这些镜像网站可能会保留原网站的界面设计和交互体验，提供与原网站类似的服务。镜像网站通常用于提高访问速度、分担服务器负载、绕过地区限制或进行不同的实验和测试。
 
 - **ChatGPT 官网入口**: [https://openai.com/](https://openai.com/)
-- **ChatGPT 镜像网站**: [https://songshugpt.com](https://songshugpt.com)
+- **ChatGPT 镜像网站**: [https://www.songshugpt.com](https://www.songshugpt.com)
 
 ## ChatGPT 镜像网站的用途
 
@@ -21,7 +21,7 @@ ChatGPT 镜像网站是指创建一个与官方的 ChatGPT 网站内容和功能
 
 ## 国内 ChatGPT 镜像站资源
 
-- [https://songshugpt.com](https://songshugpt.com) - 支持 GPT4、4o、GPT-o1、GPT-o3、Deepseek、Grok3，支持 MJ 绘画
+- [https://www.songshugpt.com](https://www.songshugpt.com) - 支持 GPT4、4o、GPT-o1、GPT-o3、Deepseek、Grok3，支持 MJ 绘画
 - [https://gptdog.online/](https://gptdog.online/) - 支持 GPT4、4o 以及 o1
 - [https://gptcat.net](https://gptcat.net ) - 支持 GPT4、4o
 - [https://ai-panda.xyz](https://ai-panda.xyz) - 支持 GPT4、4o 支持 MJ 绘画
@@ -45,7 +45,7 @@ ChatGPT 镜像网站是指创建一个与官方的 ChatGPT 网站内容和功能
 
 ## ChatGPT 镜像站快速使用教程
 
-1. 打开镜像站地址，🌟比如 [https://songshugpt.com](https://songshugpt.com) 或 [https://gptdog.online/](https://gptdog.online/)，不用注册，扫码登录。
+1. 打开镜像站地址，🌟比如 [https://www.songshugpt.com](https://www.songshugpt.com) 或 [https://gptdog.online/](https://gptdog.online/)，不用注册，扫码登录。
 2. 选择模型，比如 GPT-4o。
 3. 输入问题，比如 "Hello, how are you?"。
 4. 发送问题，等待回答。
